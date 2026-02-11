@@ -1,4 +1,4 @@
-num1 = float(input("Enter the first value: "))
+num1 = float(input("Enter the first value: 5"))
 operator = input("Enter the operator((+,-,/,*): ")
 num2 = float(input("Enter the second value: "))
 
